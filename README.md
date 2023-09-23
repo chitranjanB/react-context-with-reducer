@@ -1,4 +1,6 @@
+Original Source:
 https://github.com/NaveenkumarMD/Cart-with-reducer-and-context
+https://javascript.plainenglish.io/usereducer-along-with-usecontext-react-hooks-b558be82dd4d
 
 # Using ‘useReducer’ and ‘useContext’: React Hooks Tutorial
 ![](https://miro.medium.com/max/1400/1*iYEsSqflJAU8PZIytsGYgw.png)
